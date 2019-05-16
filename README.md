@@ -6,6 +6,6 @@
 
 (1차 UI) https://docs.google.com/presentation/d/16mObX8MBc-GgF1Yr99rIAI4ggYIPQaBmgmaZPZ07_p8/edit?usp=sharing
 
-(알림, 검색 UI -스토리보드X) https://docs.google.com/presentation/d/10Ss1J_7VjsSnO34yVZ7pvqZVAaYJ6tXuZhwf3UM5e6g/edit#slide=id.p4
+(알림, 검색 UI -스토리보드X-김지환) https://docs.google.com/presentation/d/10Ss1J_7VjsSnO34yVZ7pvqZVAaYJ6tXuZhwf3UM5e6g/edit#slide=id.p4
 
 작성 UI(박현태) https://docs.google.com/presentation/d/1fSzV9ajtP0mnb6hq1Eni-TPBbRM5YwcY1jbS0rDrp_g/edit?usp=sharing
