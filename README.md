@@ -1,4 +1,4 @@
-# 시분설 8조
+﻿# 시분설 8조
 
 (스토리보드) https://app.cardboardit.com/maps/70845?show_tour=true&tour_type=basic
 
@@ -20,4 +20,6 @@
 
 비밀번호 찾기(박서현) https://drive.google.com/file/d/1-8P2JkCnHdPtLxisVZTKUPA-pPfJW6IJ/view?usp=sharing
 
-우측, 상단(박서현) https://drive.google.com/file/d/1m1bAAfySk7dgqlowUUfa1Gt72-CTmfk_/view?usp=sharing
+- 우측, 상단(박서현) - [link](https://drive.google.com/file/d/1m1bAAfySk7dgqlowUUfa1Gt72-CTmfk_/view?usp=sharing)
+- Add
+
