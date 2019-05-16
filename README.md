@@ -11,3 +11,5 @@
 (알림, 검색 UI -스토리보드X-김지환) https://docs.google.com/presentation/d/10Ss1J_7VjsSnO34yVZ7pvqZVAaYJ6tXuZhwf3UM5e6g/edit#slide=id.p4
 
 작성 UI(박현태) https://docs.google.com/presentation/d/1fSzV9ajtP0mnb6hq1Eni-TPBbRM5YwcY1jbS0rDrp_g/edit?usp=sharing
+
+마이페이지 ui  https://github.com/HyuntaePark/-8-.git
