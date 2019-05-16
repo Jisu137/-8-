@@ -15,3 +15,9 @@
 마이페이지 ui  https://github.com/HyuntaePark/-8-.git
 
 출판 UI(박현태) https://docs.google.com/presentation/d/17T5xvkhk_QngnVc8IZ93sDw-Isi5ahD8oKnqv6pGrK0/edit?usp=sharing
+
+메세지 미완성(박서현) https://drive.google.com/file/d/1m8FniFEr9sZVuqPS9yXrpusxEpYion9K/view?usp=sharing
+
+비밀번호 찾기(박서현) https://drive.google.com/file/d/1-8P2JkCnHdPtLxisVZTKUPA-pPfJW6IJ/view?usp=sharing
+
+우측, 상단(박서현) https://drive.google.com/file/d/1m1bAAfySk7dgqlowUUfa1Gt72-CTmfk_/view?usp=sharing
